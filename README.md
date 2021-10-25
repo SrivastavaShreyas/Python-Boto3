@@ -51,3 +51,4 @@ region = us-east-1
 
 The alternate method to connect with any AWS Account is to create an `IAM role` for a user and then with the help of  `ARN Credentials` a `Session-Token` can be generated which can help us access the AWS with the help of `Python-boto3-sdk`
 
+Same as above, we have multiple ways of connecting boto3 with our local. You can find them [HERE](https://boto3.amazonaws.com/v1/documentation/api/latest/guide/credentials.html)
